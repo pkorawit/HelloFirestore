@@ -1,9 +1,5 @@
 $(function () {
 
-    // const firebase = require("firebase");
-    // // Required for side-effects
-    // require("firebase/firestore");
-
     firebase.initializeApp({
         apiKey: 'AIzaSyBJKQnNW-VN7RJlBtp_kQrMsZS6ElNtdxk',
         authDomain: 'demowebclient.firebaseapp.com',
